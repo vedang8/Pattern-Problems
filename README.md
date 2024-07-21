@@ -8,3 +8,4 @@ Different pattern problems for the interview
 ![image](https://github.com/user-attachments/assets/21e3a095-dad2-4f71-81fd-dddb06bb8dda)
 
 ## Pattern 3
+![image](https://github.com/user-attachments/assets/e1c66dc0-cf02-44f7-aef3-39fcaea9e70b)
